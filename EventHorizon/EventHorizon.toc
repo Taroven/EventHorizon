@@ -1,0 +1,13 @@
+## Interface: 40100
+## Title: EventHorizon
+## Author: Taroven
+## Version: 1.9.3-4
+## Dependencies:
+## OptDeps: SharedMedia
+## SavedVariables: EventHorizonDBG
+## SavedVariablesPerCharacter: EventHorizonDB
+
+EventHorizon.lua
+trinkets.lua
+config.lua
+myconfig.lua

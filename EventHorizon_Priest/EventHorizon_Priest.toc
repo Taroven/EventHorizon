@@ -1,0 +1,10 @@
+## Interface: 40000
+## Title: EventHorizon_|c60ffffffPriest|r
+## Author: Taroven
+## Dependencies: EventHorizon
+## LoadOnDemand: 1
+## OptDeps: 
+## SavedVariables: 
+
+config.lua
+myconfig.lua

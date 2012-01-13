@@ -1,0 +1,10 @@
+## Interface: 40000
+## Title: EventHorizon_|c909482c9Warlock|r
+## Author: Taroven
+## LoadOnDemand: 1
+## Dependencies: EventHorizon
+## OptDeps: 
+## SavedVariables: 
+
+config.lua
+myconfig.lua
